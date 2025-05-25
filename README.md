@@ -1,3 +1,4 @@
+#online-shopping-system
 🛒 Console Shopping System in C++
 A simple console-based shopping system written in C++ that allows users to sign up/sign in, browse products by category, add items to their cart, place orders, and view order history. This project demonstrates object-oriented programming concepts like encapsulation, class design, and user interaction through CLI.
 
@@ -62,20 +63,3 @@ Place an order
 
 View your previous order history
 
-📂 Sample Output
-mathematica
-Copy
-Edit
-=== Welcome to the Shopping System ===
-1. Sign Up
-2. Sign In
-Enter choice: 1
-Sign Up → Enter a username: user123
-
-Menu:
-1. Browse Categories
-2. Add Product to Cart
-3. View Cart
-4. Place Order
-5. View Order History
-0. Exit
